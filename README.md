@@ -1,5 +1,5 @@
 # SGSSC-Straight-gear-standard-size-calculator
-<a href="http://139.199.75.55/owncloud/index.php/s/POJFCZk0fNdSfnj"> Doneload for Windows </a>
+<a href="http://139.199.75.55/owncloud/index.php/s/POJFCZk0fNdSfnj"> Donwload for Windows </a>
 
 A calculator to calculate the size of straight gear . 
 
